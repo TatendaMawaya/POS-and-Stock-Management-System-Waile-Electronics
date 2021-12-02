@@ -1,0 +1,14 @@
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Kaylie Medical Pharmacy System\Kaylie Medical Pharmacy System\bin\Debug\Kaylie Medical Pharmacy System.exe.config
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Kaylie Medical Pharmacy System\Kaylie Medical Pharmacy System\bin\Debug\Kaylie Medical Pharmacy System.exe
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Kaylie Medical Pharmacy System\Kaylie Medical Pharmacy System\bin\Debug\Kaylie Medical Pharmacy System.pdb
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Kaylie Medical Pharmacy System\Kaylie Medical Pharmacy System\bin\Debug\Kaylie Medical Pharmacy System.xml
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Kaylie Medical Pharmacy System\Kaylie Medical Pharmacy System\obj\Debug\Kaylie_Medical_Pharmacy_System.AboutBox1.resources
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Kaylie Medical Pharmacy System\Kaylie Medical Pharmacy System\obj\Debug\Kaylie_Medical_Pharmacy_System.Form1.resources
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Kaylie Medical Pharmacy System\Kaylie Medical Pharmacy System\obj\Debug\Kaylie_Medical_Pharmacy_System.LoginForm1.resources
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Kaylie Medical Pharmacy System\Kaylie Medical Pharmacy System\obj\Debug\Kaylie_Medical_Pharmacy_System.Resources.resources
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Kaylie Medical Pharmacy System\Kaylie Medical Pharmacy System\obj\Debug\Kaylie_Medical_Pharmacy_System.SplashScreen1.resources
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Kaylie Medical Pharmacy System\Kaylie Medical Pharmacy System\obj\Debug\Kaylie Medical Pharmacy System.vbproj.GenerateResource.Cache
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Kaylie Medical Pharmacy System\Kaylie Medical Pharmacy System\obj\Debug\Kaylie Medical Pharmacy System.exe
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Kaylie Medical Pharmacy System\Kaylie Medical Pharmacy System\obj\Debug\Kaylie Medical Pharmacy System.xml
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Kaylie Medical Pharmacy System\Kaylie Medical Pharmacy System\obj\Debug\Kaylie Medical Pharmacy System.pdb
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Kaylie Medical Pharmacy System\Kaylie Medical Pharmacy System\bin\Debug\Pharmacy.accdb
